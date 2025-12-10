@@ -1,4 +1,4 @@
-Event Loop in JavaScript – Learning Notes
+Event Loop in JavaScript – Learning Notes  
 
 Today I learned how the JavaScript Event Loop actually works behind the scenes.
 At first, I thought JavaScript runs everything line by line, but now I understand that it uses a smart system to manage different types of tasks.
